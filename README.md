@@ -1,6 +1,12 @@
+<div align=center>
+ 
+ ### Hello, my name is Julia and my nickname is Gumma!
 
-# Hello! Welcome to my Github profile.
-## My name is Julia and my nickname is Gumma!
+</div>
+
+ I'm a programmer student, check my [portfolio](https://juliasouzag.github.io/Portifolio/) to know more about me.
+
+
 
 <!-- ![Snake animation](https://github.com/JuliaSouzaG/JuliaSouzaG/blob/output/github-contribution-grid-snake.svg) -->
 
@@ -22,8 +28,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSouzaG&layout=compact&langs_count=7&theme=default_repo"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaSouzaG&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <div>
-
-## Contacts:
+ 
+ ##
+ 
 <div>
 <a href="https://www.linkedin.com/in/j%C3%BAlia-gomes-583000244/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://wa.me/5592982402547" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Whatsapp-%2340C351?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
