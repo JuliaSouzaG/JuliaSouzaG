@@ -4,8 +4,11 @@
 
 </div>
 
+<div align=center>
+ 
  I'm a programmer student, check my [portfolio](https://juliasouzag.github.io/Portifolio/) to know more about me.
-
+ 
+</div>
 
 
 <!-- ![Snake animation](https://github.com/JuliaSouzaG/JuliaSouzaG/blob/output/github-contribution-grid-snake.svg) -->
