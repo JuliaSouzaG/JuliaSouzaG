@@ -13,7 +13,7 @@
 
 <!-- ![Snake animation](https://github.com/JuliaSouzaG/JuliaSouzaG/blob/output/github-contribution-grid-snake.svg) -->
 
- ## Tools and technologies       
+ ## technologies and Softwares       
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
