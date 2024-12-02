@@ -1,6 +1,6 @@
 <div align=center>
  
- ### Hello, my name is Julia and my nickname is Gumma!
+ ### Hello, my name is Julia!
 
 </div>
 
